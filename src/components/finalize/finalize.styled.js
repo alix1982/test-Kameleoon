@@ -8,8 +8,6 @@ export const FinalizeStl = styled.section`
     align-items: flex-start;
 
     .heading {
-        width: 330px;
-        background-color: green;
         margin: 0;
         color: #222;
         font-family: Montserrat;
