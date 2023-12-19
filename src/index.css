@@ -1,3 +1,15 @@
+:root {
+  /* Colors */
+  --color-text-stop: #FE4848;
+  --color-text-pause: #FF8346;
+  --color-text-onlain: #1BDA9D;
+  --color-text-draft: #5C5C5C;
+
+  --color-border-1: #E14165;;
+  --color-border-2: #C2C2FF;
+  --color-border-3: #8686FF;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +23,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
